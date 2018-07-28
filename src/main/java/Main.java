@@ -1,6 +1,5 @@
 
-import com.emailed.onceintram.Solution;
-
+import com.algorithm.CalendarInvite;
 import java.text.ParseException;
 
 
@@ -10,8 +9,8 @@ import java.text.ParseException;
 public class Main {
 
     public static void main(String args[]) throws ParseException {
-        Solution.solution();
 
+        CalendarInvite.calendarInvite();
     }
 
 
